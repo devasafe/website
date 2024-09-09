@@ -7,6 +7,9 @@ var typed = new Typed(".typing", {
     loop: true
 })
 /* aside */
+
+
+
 const nav = document.querySelector(".nav"),
     navList = nav.querySelectorAll("li"),
     totalNavList = navList.length,
